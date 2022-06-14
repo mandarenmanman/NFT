@@ -1,12 +1,15 @@
 {
-	"description": "学会了都不难~",
+	"description": "Java高级工程师",
 	"image": "https://gateway.pinata.cloud/ipfs/QmPaMzm3Tp7X346smV52eZcpNLVBEUPR8cJGPHGyaL5vzd",
 	"name": "Cloud",
 	"attributes": [{
-		"trait_type": "Base",
-		"value": "Starfish"
+		"trait_type": "Spring Boot",
+		"value": "精通"
 	}, {
-		"trait_type": "Eyes",
-		"value": "Big"
+		"trait_type": "kubernetes",
+		"value": "精通"
+	}, {
+		"trait_type": "数据库",
+		"value": "精通"
 	}]
 }
