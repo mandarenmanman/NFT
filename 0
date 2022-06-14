@@ -1,15 +1,14 @@
 {
-    "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.", 
-    "image": "https://gateway.pinata.cloud/ipfs/QmPaMzm3Tp7X346smV52eZcpNLVBEUPR8cJGPHGyaL5vzd", 
-    "name": "Dave Starbelly",
-    "attributes": [
-      {
-        "trait_type": "Base", 
-        "value": "Starfish"
-      }, 
-      {
-        "trait_type": "Eyes", 
-        "value": "Big"
-      }
-    ], 
-  }
+	"description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
+	"image": "https://gateway.pinata.cloud/ipfs/QmPaMzm3Tp7X346smV52eZcpNLVBEUPR8cJGPHGyaL5vzd",
+	"name": "Dave Starbelly",
+	"attributes": [{
+			"trait_type": "Base",
+			"value": "Starfish"
+		},
+		{
+			"trait_type": "Eyes",
+			"value": "Big"
+		}
+	]
+}
