@@ -1,8 +1,17 @@
 {
-	"description": "Java高级工程师",
+	"description": "Java高级工程师,就职于HistoryBlock.Job",
 	"image": "https://gateway.pinata.cloud/ipfs/QmPaMzm3Tp7X346smV52eZcpNLVBEUPR8cJGPHGyaL5vzd",
-	"name": "Cloud",
+	"name": "mandaren",
 	"attributes": [{
+		"trait_type": "学历·学校",
+		"value": "本科·集美大学"
+	},{
+		"trait_type": "age",
+		"value": "18"
+	},{
+		"trait_type": "Location",
+		"value": "china"
+	},{
 		"trait_type": "Spring Boot",
 		"value": "精通"
 	}, {
